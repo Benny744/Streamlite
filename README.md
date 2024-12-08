@@ -17,3 +17,5 @@ There are 5 pages in the Telco Churn Prediction App: Home, Data, Dashboard, Pred
 3. Dashboard Page: This page offers insights into consumer behavior and churn patterns through interactive analytics and graphics.
 
 4. Predict Page: Using the app’s machine learning capabilities, users can input client details to estimate the chance of turnover.
+
+   You can access the app using this url https://benny744-streamlite-app-gsect4.streamlit.app/
