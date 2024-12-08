@@ -55,7 +55,7 @@ def home_page():
 
         st.divider()
         st.write("====" * 10)
-        st.write("Need help? Contact me on +254700400500")
+        st.write("Need help? Contact me on +233247858610")
 
 
 
